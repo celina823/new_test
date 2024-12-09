@@ -1,2 +1,6 @@
 git clone 주소 : 원격 저장소 로컬을 받아오는 것
 git add . : staging area에 올리는 것
+git commit -m '커밋 메세지' : staging area에 있는 걸 .git directory/repository로 반영
+git push origin 브랜치명 : 원격 저장소 중에 특정 브랜치로 올리는 것
+git branch 이름 : 새로운 브랜치 이름으로 브랜치 생성
+git checkout 브랜치이름 : 해당 브랜치로 이동
